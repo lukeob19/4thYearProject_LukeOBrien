@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 02a84b44ae140a042b5b58799bf5bfcd
+  - enabled: 1
+    path: Assets/Scenes/Infoscreen.unity
+    guid: 28235b8231fcf624587bacb0c9d530f3
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: 50ac044ddeccd954791d6b9ad38f8b33
+  - enabled: 1
+    path: Assets/Scenes/CellularAutomata.unity
+    guid: 8bc32a918f1062d41a4a8343b5a18ac9
+  - enabled: 1
+    path: Assets/Scenes/BinarySpacePartition.unity
+    guid: fabeee4afa5fd7942b014ea55ae23e6a
+  - enabled: 1
+    path: Assets/Scenes/WaveFunctionCollapse.unity
+    guid: 72daa7ef27b44a1409b0ea01380ecb89
+  m_configObjects: {}
